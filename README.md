@@ -1,12 +1,10 @@
-# What is Haylo?
-
 ![Three mobile phones displaying the Haylo app for mobile alongside the loho](https://i.ibb.co/Q8mDBHf/Frame-2-3.png)
 
-Haylo is an interactive platform built for Mobile & the web, that gives developers key insights on how they code based of 6 metrics
+Haylo is an interactive platform built for Mobile & the web, that gives developers key insights on how they code based of 6 key metrics
 > Haylo is currently in development, things are subject to change
 
-How does it work?
-It's currently a Visual Studio Code extension that tracks your code & how you code then ranks you out of ten in the following categories.
+# How does it work?
+It's currently an IDE Extension that tracks your code & how you code then ranks you out of ten in the following categories.
 
 - Codinng Erros
 - Key Strokes Per Minute (KPM)
