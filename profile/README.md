@@ -6,17 +6,17 @@
 # How does it work?
 It's currently an IDE Extension that tracks your code & how you code then ranks you out of ten in the following categories.
 
-- Coding Errors
-- Key Strokes Per Minute (KPM)
-- Active Coding Time (How much time spent actually typing code during a session)
-- AI Dependency
-- Code Readability
-- Code Duplication
+- Error Score, Provides a score based on the errors made during code and the result of the final codebase.
+- Idle Activity Score, Provides a score based on the active coding time and total time coding.
+- Code Duplication Score, Provides a score based on how much duplication there is in the codebase.
+- Code Maintainability, Provides a score based on how easy your code is to maintain and manageable to others.
+- Code Readability Score, Provides a score based on how easy your code is to read.
+- AI Dependacy Score, Provides a score based on how much AI is used in your codebase.
 
 From these statistics, Haylo can provide activities based on key concepts you've tripped up on in your code. For example, if you keep making errors related to React useStates, Haylo might reccomend a react useState activity. It works with all coding languages and is completely free.
 
 # What's the point?
-In the midst of an AI pandemic, it can be hard for developers to improve on their own when they have AI tools at their disposal. Haylo provides a way for developers to keep in check and continue growing.
+
 
 # 🤔 Is Haylo Open Source?
 At the moment, no. No parts of Haylo are open source. As we grow, we plan on sharing our algrothims and log file standards to empower other developers to create solutions that help better others
