@@ -25,4 +25,4 @@ At the moment, no. No parts of Haylo are open source. As we grow, we plan on sha
 Haylo uses AI to process results, this is done for free, forever. We dont collect information on your code, but how you code. Any information about your code is proccesed in your IDE and isnt sent back to Haylo unless you let us. You can request & delete all the data we have on you at anytime.
 
 # How can I get involved
-Add yourself to supporters.txt & add a star to the repo
+Get started using the beta at haylo.cc
