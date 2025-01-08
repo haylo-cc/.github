@@ -1,4 +1,4 @@
-![Three mobile phones displaying the Haylo app for mobile alongside the loho](https://i.ibb.co/kByCpkc/Frame-2-5.png)
+![Three mobile phones displaying the Haylo app for mobile alongside the loho](https://i.ibb.co/0y0BdSy/Frame-2-6.png)
 
 🚀 Haylo is an interactive platform built for developers by developers to supercharge their developemnt.
 > Haylo is currently in development, things are subject to change
